@@ -1,5 +1,4 @@
 var playlist = {
-  coldplay: "clocks"
 };
 
 function updatePlaylist(playlist, artistName, songTitle) {
