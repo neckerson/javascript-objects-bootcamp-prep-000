@@ -1,1 +1,1 @@
-playlist = { coldplay: 'clocks' }
+playlist = { coldplay: 'clocks' };
